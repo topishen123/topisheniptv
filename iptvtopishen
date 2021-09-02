@@ -318,3 +318,347 @@ http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/17854
 http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/6525
 #EXTINF:-1 tvg-ID="Viasat Sport Premium HD SE" tvg-name="SE: Viasat Sport Premium HD ( Backup)" tvg-logo="https://4.bp.blogspot.com/-7-NlIxmAhK4/WcfxhC67otI/AAAAAAAAEl4/5z7H8jiIgv4UQYj9Tlx5YIvnch8PNtYWwCLcBGAs/s1600/viasat_sport_premium.png" group-title="Sweden",SE: Viasat Sport Premium HD ( Backup)
 http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/13242
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="======== ULUSAL ========" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/ulusallar.png" group-title="TR | Ulusal",======== ULUSAL ========
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/1563
+#EXTINF:-1 tvg-ID="" tvg-name="Coronavirus Live Update" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/coronans1.jpg" group-title="TR | Ulusal",Coronavirus Live Update
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/52928
+#EXTINF:-1 tvg-ID="" tvg-name="Relax TV" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/%C5%9F%C3%B6mine-png-4.png" group-title="TR | Ulusal",Relax TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/19148
+#EXTINF:-1 tvg-ID="TRT1.tr" tvg-name="TRT 4K" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/trt_4k_tr.png" group-title="TR | Ulusal",TRT 4K
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/15339
+#EXTINF:-1 tvg-ID="TRT1.tr" tvg-name="TRT 4K 1080p" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/trt_4k_tr.png" group-title="TR | Ulusal",TRT 4K 1080p
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/20785
+#EXTINF:-1 tvg-ID="TRT1.tr" tvg-name="TRT 1 HD++" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/trt1.png" group-title="TR | Ulusal",TRT 1 HD++
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/50018
+#EXTINF:-1 tvg-ID="TRT1.tr" tvg-name="TRT 1 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/trt1_hd.jpg" group-title="TR | Ulusal",TRT 1 HD+
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/2313
+#EXTINF:-1 tvg-ID="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/trt1_hd.jpg" group-title="TR | Ulusal",TRT 1 HD
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/1229
+#EXTINF:-1 tvg-ID="ATV.tr" tvg-name="ATV HD++" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/atv_tr.png" group-title="TR | Ulusal",ATV HD++
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14668
+#EXTINF:-1 tvg-ID="ATV.tr" tvg-name="ATV HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/atv_turkiye.jpg" group-title="TR | Ulusal",ATV HD+
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/2296
+#EXTINF:-1 tvg-ID="ATV.tr" tvg-name="ATV HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/atv_tr.png" group-title="TR | Ulusal",ATV HD
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54255
+#EXTINF:-1 tvg-ID="ShowTV.tr" tvg-name="Show TV HD++" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/showtv.jpg" group-title="TR | Ulusal",Show TV HD++
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/50161
+#EXTINF:-1 tvg-ID="ShowTV.tr" tvg-name="Show TV HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/showtv.jpg" group-title="TR | Ulusal",Show TV HD+
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/2311
+#EXTINF:-1 tvg-ID="ShowTV.tr" tvg-name="Show TV HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/showtv.jpg" group-title="TR | Ulusal",Show TV HD
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/1237
+#EXTINF:-1 tvg-ID="Start.tr" tvg-name="Star TV HD++" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/Star_TV_2011.png" group-title="TR | Ulusal",Star TV HD++
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14598
+#EXTINF:-1 tvg-ID="Start.tr" tvg-name="Star TV HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/Star_TV_2011.png" group-title="TR | Ulusal",Star TV HD+
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/2312
+#EXTINF:-1 tvg-ID="Start.tr" tvg-name="Star TV HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/Star_TV_2011.png" group-title="TR | Ulusal",Star TV HD
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54256
+#EXTINF:-1 tvg-ID="KanalD.tr" tvg-name="Kanal D HD++" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_d_hd.jpg" group-title="TR | Ulusal",Kanal D HD++
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14626
+#EXTINF:-1 tvg-ID="KanalD.tr" tvg-name="Kanal D HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_d_hd.jpg" group-title="TR | Ulusal",Kanal D HD+
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/2304
+#EXTINF:-1 tvg-ID="KanalD.tr" tvg-name="Kanal D HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_d_hd.jpg" group-title="TR | Ulusal",Kanal D HD
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/1234
+#EXTINF:-1 tvg-ID="FOX TR" tvg-name="FOX TV HD++" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/fox_tr.jpg" group-title="TR | Ulusal",FOX TV HD++
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14645
+#EXTINF:-1 tvg-ID="Fox.tr" tvg-name="FOX TV HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/fox_tr.jpg" group-title="TR | Ulusal",FOX TV HD+
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/2301
+#EXTINF:-1 tvg-ID="Fox.tr" tvg-name="FOX TV HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/fox_global.png" group-title="TR | Ulusal",FOX TV HD
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54257
+#EXTINF:-1 tvg-ID="TV8.tr" tvg-name="TV 8 HD++" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tv8_tr.png" group-title="TR | Ulusal",TV 8 HD++
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14580
+#EXTINF:-1 tvg-ID="TV8.tr" tvg-name="TV 8 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tv8_tr.png" group-title="TR | Ulusal",TV 8 HD+
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/2317
+#EXTINF:-1 tvg-ID="TV8.tr" tvg-name="TV 8 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tv8.jpg" group-title="TR | Ulusal",TV 8 HD
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/1494
+#EXTINF:-1 tvg-ID="TV85.tr" tvg-name="TV 8.5 HD++" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tv85_tr.png" group-title="TR | Ulusal",TV 8.5 HD++
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14581
+#EXTINF:-1 tvg-ID="TV85.tr" tvg-name="TV 8.5 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tv85_tr.png" group-title="TR | Ulusal",TV 8.5 HD+
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/2807
+#EXTINF:-1 tvg-ID="TV85.tr" tvg-name="TV 8.5 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tv85_tr.png" group-title="TR | Ulusal",TV 8.5 HD
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/2878
+#EXTINF:-1 tvg-ID="Kanal7.tr" tvg-name="Kanal 7 HD++" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal7_tr.png" group-title="TR | Ulusal",Kanal 7 HD++
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14627
+#EXTINF:-1 tvg-ID="Kanal7.tr" tvg-name="Kanal 7 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal7_tr.jpg" group-title="TR | Ulusal",Kanal 7 HD+
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/5125
+#EXTINF:-1 tvg-ID="Kanal7.tr" tvg-name="Kanal 7 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal7_tr.jpg" group-title="TR | Ulusal",Kanal 7 HD
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/2599
+#EXTINF:-1 tvg-ID="BEYAZTV.tr" tvg-name="Beyaz TV HD++" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/beyaz_tv_tr.png" group-title="TR | Ulusal",Beyaz TV HD++
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14665
+#EXTINF:-1 tvg-ID="BEYAZTV.tr" tvg-name="Beyaz TV HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/beyaztv.jpg" group-title="TR | Ulusal",Beyaz TV HD+
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/2297
+#EXTINF:-1 tvg-ID="BEYAZTV.tr" tvg-name="Beyaz TV HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/beyaztv.jpg" group-title="TR | Ulusal",Beyaz TV HD
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/1138
+#EXTINF:-1 tvg-ID="" tvg-name="A2 HD++" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/A2_logosu.jpg" group-title="TR | Ulusal",A2 HD++
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14863
+#EXTINF:-1 tvg-ID="" tvg-name="A2 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/A2_logosu.jpg" group-title="TR | Ulusal",A2 HD+
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/4457
+#EXTINF:-1 tvg-ID="a2tv.tr" tvg-name="A2 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/A2_logosu.jpg" group-title="TR | Ulusal",A2 HD
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/2885
+#EXTINF:-1 tvg-ID="TV2.tr" tvg-name="teve2 HD++" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/teve_2_tr.png" group-title="TR | Ulusal",teve2 HD++
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14596
+#EXTINF:-1 tvg-ID="TV2.tr" tvg-name="teve2 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/teve2.jpg" group-title="TR | Ulusal",teve2 HD+
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/2691
+#EXTINF:-1 tvg-ID="TV2.tr" tvg-name="teve2 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/teve2.jpg" group-title="TR | Ulusal",teve2 HD
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/1141
+#EXTINF:-1 tvg-ID="SkyTurk360.tr" tvg-name="360 HD++" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/360_tv_tr.png" group-title="TR | Ulusal",360 HD++
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14866
+#EXTINF:-1 tvg-ID="SkyTurk360.tr" tvg-name="360 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/sky_turk_360.jpg" group-title="TR | Ulusal",360 HD+
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/4474
+#EXTINF:-1 tvg-ID="SkyTurk360.tr" tvg-name="360 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/sky_turk_360.jpg" group-title="TR | Ulusal",360 HD
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/2601
+#EXTINF:-1 tvg-ID="FoxCrime.tr" tvg-name="FOX Crime HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/Foxcrime.jpg" group-title="TR | Ulusal",FOX Crime HD
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/1093
+#EXTINF:-1 tvg-ID="TRTOkul.tr" tvg-name="TRT 2 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/trt2.png" group-title="TR | Ulusal",TRT 2 HD+
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/2989
+#EXTINF:-1 tvg-ID="ATV.tr" tvg-name="Atv Avrupa" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/atv_tr_avrupa.png" group-title="TR | Ulusal",Atv Avrupa
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/5131
+#EXTINF:-1 tvg-ID="ShowTV.tr" tvg-name="Show Türk" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/show_turk.png" group-title="TR | Ulusal",Show Türk
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/5128
+#EXTINF:-1 tvg-ID="Showmax.tr" tvg-name="Show Max" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/show_max_tr.png" group-title="TR | Ulusal",Show Max
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/1238
+#EXTINF:-1 tvg-ID="KanalD.tr" tvg-name="Euro D" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/eurod.png" group-title="TR | Ulusal",Euro D
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/5130
+#EXTINF:-1 tvg-ID="Start.tr" tvg-name="Euro Star" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/euro_star_tr.png" group-title="TR | Ulusal",Euro Star
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/5127
+#EXTINF:-1 tvg-ID="TV8.tr" tvg-name="TV 8 Int" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tv8_tr_international.png" group-title="TR | Ulusal",TV 8 Int
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/5132
+#EXTINF:-1 tvg-ID="Kanal7.tr" tvg-name="Kanal 7 Avrupa" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal7_avrupa.png" group-title="TR | Ulusal",Kanal 7 Avrupa
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/5129
+#EXTINF:-1 tvg-ID="FX.tr" tvg-name="FX HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/FX_HD_Logo_2.png" group-title="TR | Ulusal",FX HD
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/1242
+#EXTINF:-1 tvg-ID="ucankus.tr" tvg-name="Ucan Kus Tv" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/ucan_kus_tv_tr.png" group-title="TR | Ulusal",Ucan Kus Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/12754
+#EXTINF:-1 tvg-ID="" tvg-name="ISTANBUL TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/istanbul_tv_tr.png" group-title="TR | Ulusal",ISTANBUL TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/12470
+#EXTINF:-1 tvg-ID="" tvg-name="Cem TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/cem_tv_tr.png" group-title="TR | Ulusal",Cem TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/2991
+#EXTINF:-1 tvg-ID="Dost TV TR" tvg-name="Dost Tv" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/dost_tv_tr.png" group-title="TR | Ulusal",Dost Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/50514
+#EXTINF:-1 tvg-ID="" tvg-name="Line TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/line_tv_tr.png" group-title="TR | Ulusal",Line TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14617
+#EXTINF:-1 tvg-ID="" tvg-name="FM TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/fm_tv_tr.png" group-title="TR | Ulusal",FM TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14646
+#EXTINF:-1 tvg-ID="" tvg-name="Edessa TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kabe-tv-140x110.png" group-title="TR | Ulusal",Edessa TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/4493
+#EXTINF:-1 tvg-ID="" tvg-name="KUDUS TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kudus_tv_tr.png" group-title="TR | Ulusal",KUDUS TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14818
+#EXTINF:-1 tvg-ID="" tvg-name="Kabe TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kabe-tv-140x110.png" group-title="TR | Ulusal",Kabe TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/17972
+#EXTINF:-1 tvg-ID="" tvg-name="Lalegül TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/lalegul_tv_tr.png" group-title="TR | Ulusal",Lalegül TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/2839
+#EXTINF:-1 tvg-ID="MeltemTv.tr" tvg-name="Meltem TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/meltem_tv_tr.png" group-title="TR | Ulusal",Meltem TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/17993
+#EXTINF:-1 tvg-ID="TRTDIYANET.tr" tvg-name="TRT Diyanet" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/trt_diyanet_tr.jpg" group-title="TR | Ulusal",TRT Diyanet
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/19064
+#EXTINF:-1 tvg-ID="" tvg-name="Rehber TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/rehber_tv_tr.png" group-title="TR | Ulusal",Rehber TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14604
+#EXTINF:-1 tvg-ID="SemerkandTV.tr" tvg-name="Semerkand TV HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/semerkand_tv.png" group-title="TR | Ulusal",Semerkand TV HD
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/3371
+#EXTINF:-1 tvg-ID="" tvg-name="======== YEREL KANALLAR========" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/yereller.jpg" group-title="TR | Ulusal",======== YEREL KANALLAR========
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14769
+#EXTINF:-1 tvg-ID="" tvg-name="KENT TURK TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/38-kent-tv-kayseri-tr.png" group-title="TR | Ulusal",KENT TURK TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14679
+#EXTINF:-1 tvg-ID="" tvg-name="ADANA Koza TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/adana-tv-tr.png" group-title="TR | Ulusal",ADANA Koza TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14673
+#EXTINF:-1 tvg-ID="" tvg-name="AHI TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/ahitv.png" group-title="TR | Ulusal",AHI TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54170
+#EXTINF:-1 tvg-ID="" tvg-name="AKILLI TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/akilli_tv_tr.png" group-title="TR | Ulusal",AKILLI TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14861
+#EXTINF:-1 tvg-ID="" tvg-name="Aksu" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/aksu_tv.png" group-title="TR | Ulusal",Aksu
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51973
+#EXTINF:-1 tvg-ID="" tvg-name="ANADOLU DERNEK TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/anadolu_dernek_tv_tr.png" group-title="TR | Ulusal",ANADOLU DERNEK TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54160
+#EXTINF:-1 tvg-ID="" tvg-name="AS Tv" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/as_tv_tr.png" group-title="TR | Ulusal",AS Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51974
+#EXTINF:-1 tvg-ID="" tvg-name="Av Tv" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/av-tv-tr.png" group-title="TR | Ulusal",Av Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51975
+#EXTINF:-1 tvg-ID="" tvg-name="Bahar Turk" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/bahar_tv_tr.jpg" group-title="TR | Ulusal",Bahar Turk
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51976
+#EXTINF:-1 tvg-ID="" tvg-name="Ben TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/bentv.jpeg" group-title="TR | Ulusal",Ben TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54157
+#EXTINF:-1 tvg-ID="" tvg-name="beykent  TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/beykent_tv_tr.png" group-title="TR | Ulusal",beykent  TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14602
+#EXTINF:-1 tvg-ID="" tvg-name="Bolu Merkez TV" tvg-logo="" group-title="TR | Ulusal",Bolu Merkez TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54159
+#EXTINF:-1 tvg-ID="" tvg-name="Br Tv" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/brtv_tr.png" group-title="TR | Ulusal",Br Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51978
+#EXTINF:-1 tvg-ID="" tvg-name="BRT 1 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/brtv_tr.png" group-title="TR | Ulusal",BRT 1 HD
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14852
+#EXTINF:-1 tvg-ID="" tvg-name="BRT 2" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/brtv_tr.png" group-title="TR | Ulusal",BRT 2
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14850
+#EXTINF:-1 tvg-ID="" tvg-name="Bursa Tv" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/bursa_tv_tr.png" group-title="TR | Ulusal",Bursa Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14662
+#EXTINF:-1 tvg-ID="" tvg-name="Cay TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/cay_tv.jpg" group-title="TR | Ulusal",Cay TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/3775
+#EXTINF:-1 tvg-ID="" tvg-name="Ciftci TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/ciftci_tv_tr.png" group-title="TR | Ulusal",Ciftci TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/12473
+#EXTINF:-1 tvg-ID="" tvg-name="DEHA TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/deha_tv_tr.png" group-title="TR | Ulusal",DEHA TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14658
+#EXTINF:-1 tvg-ID="" tvg-name="Deniz Postasi" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/deniz_tv_tr.jpg" group-title="TR | Ulusal",Deniz Postasi
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51980
+#EXTINF:-1 tvg-ID="" tvg-name="Dim Tv" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/dimtv.jpg" group-title="TR | Ulusal",Dim Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51981
+#EXTINF:-1 tvg-ID="" tvg-name="Diyar TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/diyar_tv_tr.png" group-title="TR | Ulusal",Diyar TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14657
+#EXTINF:-1 tvg-ID="" tvg-name="DORUK TV" tvg-logo="https://frekansbilgisi.com/logo/doruk-tv-FrekansBilgisiCom.png" group-title="TR | Ulusal",DORUK TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54167
+#EXTINF:-1 tvg-ID="" tvg-name="DRT Denizli" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/drt_denizli_tr_logo.png" group-title="TR | Ulusal",DRT Denizli
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14842
+#EXTINF:-1 tvg-ID="" tvg-name="Ege Tv" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/ege_turk_tv_tr.png" group-title="TR | Ulusal",Ege Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51982
+#EXTINF:-1 tvg-ID="" tvg-name="Elit TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/elittv.png" group-title="TR | Ulusal",Elit TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54156
+#EXTINF:-1 tvg-ID="" tvg-name="Er Tv" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/ertv_tr.png" group-title="TR | Ulusal",Er Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51983
+#EXTINF:-1 tvg-ID="" tvg-name="ErtSah TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/ert_sah_tr_tv.png" group-title="TR | Ulusal",ErtSah TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51984
+#EXTINF:-1 tvg-ID="" tvg-name="ES TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/estv.png" group-title="TR | Ulusal",ES TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54161
+#EXTINF:-1 tvg-ID="" tvg-name="Frt Tv" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/frttv.png" group-title="TR | Ulusal",Frt Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51985
+#EXTINF:-1 tvg-ID="" tvg-name="Grt" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/grttv.png" group-title="TR | Ulusal",Grt
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51986
+#EXTINF:-1 tvg-ID="" tvg-name="GRT TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/grttv.png" group-title="TR | Ulusal",GRT TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54162
+#EXTINF:-1 tvg-ID="" tvg-name="GUNEY TV Tarsus" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/guneytvtarsus.png" group-title="TR | Ulusal",GUNEY TV Tarsus
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54155
+#EXTINF:-1 tvg-ID="" tvg-name="GÜNEYDOGU TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/guneydogu_tv.png" group-title="TR | Ulusal",GÜNEYDOGU TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14642
+#EXTINF:-1 tvg-ID="" tvg-name="Hrt Akdeniz" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/hrt_akdeniz_tv_tr.png" group-title="TR | Ulusal",Hrt Akdeniz
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/12740
+#EXTINF:-1 tvg-ID="" tvg-name="KADIRGA TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kadirga_tv_tr.png" group-title="TR | Ulusal",KADIRGA TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14636
+#EXTINF:-1 tvg-ID="" tvg-name="KANAL  26" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_26_tr.png" group-title="TR | Ulusal",KANAL  26
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14633
+#EXTINF:-1 tvg-ID="" tvg-name="Kanal 15" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal15_tr.png" group-title="TR | Ulusal",Kanal 15
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51987
+#EXTINF:-1 tvg-ID="" tvg-name="KANAL 16" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_16_tr.png" group-title="TR | Ulusal",KANAL 16
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14635
+#EXTINF:-1 tvg-ID="" tvg-name="KANAL 19" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_19_tr.png" group-title="TR | Ulusal",KANAL 19
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54164
+#EXTINF:-1 tvg-ID="" tvg-name="KANAL 23" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_23_tr.png" group-title="TR | Ulusal",KANAL 23
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14634
+#EXTINF:-1 tvg-ID="" tvg-name="KANAL 3" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal3_tr.png" group-title="TR | Ulusal",KANAL 3
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/12737
+#EXTINF:-1 tvg-ID="" tvg-name="KANAL 32" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal32.png" group-title="TR | Ulusal",KANAL 32
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54178
+#EXTINF:-1 tvg-ID="" tvg-name="KANAL 33" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal33_tr.png" group-title="TR | Ulusal",KANAL 33
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14831
+#EXTINF:-1 tvg-ID="" tvg-name=" KANAL 42" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_42_konya_tr.png" group-title="TR | Ulusal", KANAL 42
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54179
+#EXTINF:-1 tvg-ID="" tvg-name="KANAL 43" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal43.png" group-title="TR | Ulusal",KANAL 43
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14631
+#EXTINF:-1 tvg-ID="" tvg-name="KANAL 56" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_56_tr.png" group-title="TR | Ulusal",KANAL 56
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54165
+#EXTINF:-1 tvg-ID="" tvg-name="KANAL 58" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_58_tr.png" group-title="TR | Ulusal",KANAL 58
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14629
+#EXTINF:-1 tvg-ID="" tvg-name="Kanal 68" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_68_tr.png" group-title="TR | Ulusal",Kanal 68
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51990
+#EXTINF:-1 tvg-ID="" tvg-name="Kanal Avrupa" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_avrupa.jpg" group-title="TR | Ulusal",Kanal Avrupa
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/12819
+#EXTINF:-1 tvg-ID="KanalB.tr" tvg-name="KANAL B" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_b_tr.png" group-title="TR | Ulusal",KANAL B
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14829
+#EXTINF:-1 tvg-ID="" tvg-name="Kanal Firat" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_firat_tr.png" group-title="TR | Ulusal",Kanal Firat
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51991
+#EXTINF:-1 tvg-ID="" tvg-name="KANAL T" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_t_kibris.png" group-title="TR | Ulusal",KANAL T
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14825
+#EXTINF:-1 tvg-ID="" tvg-name="KANAL URFA" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_urfa.png" group-title="TR | Ulusal",KANAL URFA
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14623
+#EXTINF:-1 tvg-ID="" tvg-name="KANAL V" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_v_tr.png" group-title="TR | Ulusal",KANAL V
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14622
+#EXTINF:-1 tvg-ID="" tvg-name="Kanal Z" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kanal_z_tr.png" group-title="TR | Ulusal",Kanal Z
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51992
+#EXTINF:-1 tvg-ID="" tvg-name="Kay Tv" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kaytv.jpg" group-title="TR | Ulusal",Kay Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51994
+#EXTINF:-1 tvg-ID="" tvg-name="KENT TURK" tvg-logo="https://yerelmedya.tv/logosTV/38kenttv.png" group-title="TR | Ulusal",KENT TURK
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54171
+#EXTINF:-1 tvg-ID="" tvg-name="KIBRIS GENC TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kibris_genc_tv.jpg" group-title="TR | Ulusal",KIBRIS GENC TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14823
+#EXTINF:-1 tvg-ID="" tvg-name="Kon TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/kon_tv.png" group-title="TR | Ulusal",Kon TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/12734
+#EXTINF:-1 tvg-ID="" tvg-name="Köy TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/koy-tv-tr.png" group-title="TR | Ulusal",Köy TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14819
+#EXTINF:-1 tvg-ID="" tvg-name="Life TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/life-tv.png" group-title="TR | Ulusal",Life TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51995
+#EXTINF:-1 tvg-ID="" tvg-name="MC EU TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/mceutv.png" group-title="TR | Ulusal",MC EU TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54169
+#EXTINF:-1 tvg-ID="" tvg-name="Mercan Tv" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/mercan_tv_tr.png" group-title="TR | Ulusal",Mercan Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51996
+#EXTINF:-1 tvg-ID="" tvg-name="Mesaj Tv" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/mesaj.png" group-title="TR | Ulusal",Mesaj Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51997
+#EXTINF:-1 tvg-ID="" tvg-name="MGC" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/mgc_tr.png" group-title="TR | Ulusal",MGC
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14812
+#EXTINF:-1 tvg-ID="" tvg-name="MILYON TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/milyon-tv.png" group-title="TR | Ulusal",MILYON TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54177
+#EXTINF:-1 tvg-ID="" tvg-name="Natural TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/natural-tv-tr.png" group-title="TR | Ulusal",Natural TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54154
+#EXTINF:-1 tvg-ID="" tvg-name="Olay Turk" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/olay_tv_tr.png" group-title="TR | Ulusal",Olay Turk
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51999
+#EXTINF:-1 tvg-ID="" tvg-name="OLAY TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/olay_tv_tr.png" group-title="TR | Ulusal",OLAY TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14608
+#EXTINF:-1 tvg-ID="" tvg-name="ON4 TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/on-4-tr.png" group-title="TR | Ulusal",ON4 TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14806
+#EXTINF:-1 tvg-ID="" tvg-name="ORDU ALTAS TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/altas_tv_tr.png" group-title="TR | Ulusal",ORDU ALTAS TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54176
+#EXTINF:-1 tvg-ID="" tvg-name="Pamukkale TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/pamukkale_tv_tr.png" group-title="TR | Ulusal",Pamukkale TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51604
+#EXTINF:-1 tvg-ID="" tvg-name="Royal TV" tvg-logo="http://royal-tv.ch/images/royaltvBLAU.png" group-title="TR | Ulusal",Royal TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54153
+#EXTINF:-1 tvg-ID="" tvg-name="Rumeli TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/rumeli_tv_tr.png" group-title="TR | Ulusal",Rumeli TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/12731
+#EXTINF:-1 tvg-ID="" tvg-name="Sat7 Turk" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/sat7-turk.png" group-title="TR | Ulusal",Sat7 Turk
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/52001
+#EXTINF:-1 tvg-ID="" tvg-name="Sinop Yildiz TV " tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/sinopyildiz-logo.png" group-title="TR | Ulusal",Sinop Yildiz TV 
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54152
+#EXTINF:-1 tvg-ID="" tvg-name="Tempo Tv" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tempo-tv-tr.png" group-title="TR | Ulusal",Tempo Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/52003
+#EXTINF:-1 tvg-ID="" tvg-name="tivi TÜRK" tvg-logo="https://pbs.twimg.com/profile_images/757332945694777344/KmJxdn4g.jpg" group-title="TR | Ulusal",tivi TÜRK
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54151
+#EXTINF:-1 tvg-ID="" tvg-name="TMB TV" tvg-logo="https://www.tmb.tv/wp-content/uploads/2018/07/logo.png" group-title="TR | Ulusal",TMB TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54163
+#EXTINF:-1 tvg-ID="" tvg-name="Ton Tv" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/ton_tv_tr.png" group-title="TR | Ulusal",Ton Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/52004
+#EXTINF:-1 tvg-ID="" tvg-name="TR 6 TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tv6.jpg" group-title="TR | Ulusal",TR 6 TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54150
+#EXTINF:-1 tvg-ID="" tvg-name="TURKMENELI TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/turkmenelitv.png" group-title="TR | Ulusal",TURKMENELI TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54181
+#EXTINF:-1 tvg-ID="" tvg-name="TV 4" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tv4_tr.png" group-title="TR | Ulusal",TV 4
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14777
+#EXTINF:-1 tvg-ID="" tvg-name="TV 41" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tv_41_tr.png" group-title="TR | Ulusal",TV 41
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/14583
+#EXTINF:-1 tvg-ID="" tvg-name="TV 52" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tv52_tr.png" group-title="TR | Ulusal",TV 52
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54175
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Em" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tvem.png" group-title="TR | Ulusal",Tv Em
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/50359
+#EXTINF:-1 tvg-ID="" tvg-name="TV KAYSERI" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tv_kayseri_tr.png" group-title="TR | Ulusal",TV KAYSERI
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54174
+#EXTINF:-1 tvg-ID="" tvg-name="TV1 Kayseri" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tv1_kayseri.jpg" group-title="TR | Ulusal",TV1 Kayseri
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/4685
+#EXTINF:-1 tvg-ID="" tvg-name="Kanal 13" tvg-logo="https://pbs.twimg.com/profile_images/1184099500559929345/Uwqxtl9w_400x400.jpg" group-title="TR | Ulusal",Kanal 13
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/52006
+#EXTINF:-1 tvg-ID="" tvg-name="tvDEN" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tv_den_tr.png" group-title="TR | Ulusal",tvDEN
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51603
+#EXTINF:-1 tvg-ID="" tvg-name="TVO" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tvo.jpg" group-title="TR | Ulusal",TVO
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54168
+#EXTINF:-1 tvg-ID="" tvg-name="Vatan Tv" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/vatan_tv_tr.png" group-title="TR | Ulusal",Vatan Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/12815
+#EXTINF:-1 tvg-ID="" tvg-name="Vizyon 58" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/vizyon_58_tr.png" group-title="TR | Ulusal",Vizyon 58
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/52007
+#EXTINF:-1 tvg-ID="" tvg-name="Vuslat TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/vuslat_tv.png" group-title="TR | Ulusal",Vuslat TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/3069
+#EXTINF:-1 tvg-ID="" tvg-name="WM TV WOMAN KADIN" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/womantv.png" group-title="TR | Ulusal",WM TV WOMAN KADIN
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54182
+#EXTINF:-1 tvg-ID="" tvg-name="YASIN TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/yasintv.png" group-title="TR | Ulusal",YASIN TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/54180
+#EXTINF:-1 tvg-ID="" tvg-name="YILDIZ EN TV" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/yildiz_tv_tr_rize.png" group-title="TR | Ulusal",YILDIZ EN TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/51905
+
+EXTINF:-1 tvg-ID="" tvg-name="Mekke Tv" tvg-logo="" group-title="TR | Ulusal",Mekke Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/55155
+#EXTINF:-1 tvg-ID="" tvg-name="Medine Tv" tvg-logo="" group-title="TR | Ulusal",Medine Tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/55156
+#EXTINF:-1 tvg-ID="" tvg-name="Yol tv" tvg-logo="" group-title="TR | Ulusal",Yol tv
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/58779
+#EXTINF:-1 tvg-ID="" tvg-name="Dersim 62 TV" tvg-logo="" group-title="TR | Ulusal",Dersim 62 TV
+http://vip.bmbtv.me:15000/buraktplse2/sqJMGw1fT3/58787
